@@ -1,0 +1,40 @@
+{
+  "name": "transport-api",
+  "version": "1.0.0",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "playwright": "^1.18.1",
+    "user-agents": "^1.0.939"
+  },
+  "description": "NodeJS API wrapper/scraper for swedish Transport's service (Vehicle Details).",
+  "main": "src/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/techhjork/transport-api.git"
+  },
+  "keywords": [
+    "vehicle",
+    "details",
+    "car",
+    "info",
+    "swedish",
+    "vehicles",
+    "transportstyrelsen",
+    "api",
+    "vehicle",
+    "information"
+  ],
+  "author": "Techh Jork",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/techhjork/transport-api/issues"
+  },
+  "homepage": "https://github.com/techhjork/transport-api#readme"
+}
