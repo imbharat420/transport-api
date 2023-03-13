@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/techhjork/transport-api.git"
+    "url": "git+https://github.com/imbharat420/transport-api.git"
   },
   "keywords": [
     "vehicle",
@@ -34,7 +34,7 @@
   "author": "Techh Jork",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/techhjork/transport-api/issues"
+    "url": "https://github.com/imbharat420/transport-api/issues"
   },
-  "homepage": "https://github.com/techhjork/transport-api#readme"
+  "homepage": "https://github.com/imbharat420/transport-api#readme"
 }
